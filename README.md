@@ -1,0 +1,2 @@
+# TLE2CZML
+使用python提供的sgp4库，按json格式写入到czml文件，实现卫星轨道在cesium的可视化
